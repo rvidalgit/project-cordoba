@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Registro gráfico de museus virtuais
 
-You can use the [editor on GitHub](https://github.com/rvidalgit/project-cordoba/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Sites:**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [https://www.museodelprado.es/en](https://www.museodelprado.es/en)
+2.
 
-### Markdown
+## Nomenclatura dos arquivos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Arquivos nomeados automaticamento pelo sistema UNIX (Ubuntu 18.04).
 
-```markdown
-Syntax highlighted code block
+Texto + Data + Horário.Formato
 
-# Header 1
-## Header 2
-### Header 3
+Ex.: Captura de tela de 2019-03-29 20-50-14.png
 
-- Bulleted
-- List
+Data: Ano-Mês-Dia Hora-Minuto-Segundo
 
-1. Numbered
-2. List
+### Estrutura de Pastas - Site 1
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+└── www.museodelprado.es
+    └── Home
+        └── Become a Friend
+            ├── About us
+            │   └── Mission & Vision
+            ├── Prado Museum
+            │   └── History
+            ├── Projects
+            │   └── Restoration of The Annunciation by Fra Angelico
+            ├── Support
+            │   └── Extraordinary Donations
+            └── Visits
+                └── Guided Visits
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rvidalgit/project-cordoba/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
