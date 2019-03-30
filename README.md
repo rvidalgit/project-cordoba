@@ -20,16 +20,31 @@ Data: Ano-Mês-Dia Hora-Minuto-Segundo
 ```
 └── www.museodelprado.es
     └── Home
-        └── Become a Friend
-            ├── About us
-            │   └── Mission & Vision
-            ├── Prado Museum
-            │   └── History
-            ├── Projects
-            │   └── Restoration of The Annunciation by Fra Angelico
-            ├── Support
-            │   └── Extraordinary Donations
-            └── Visits
-                └── Guided Visits
+        ├── Become a Friend
+        │   ├── About us
+        │   │   └── Mission & Vision
+        │   ├── Prado Museum
+        │   │   └── History
+        │   ├── Projects
+        │   │   └── Restoration of The Annunciation by Fra Angelico
+        │   ├── Support
+        │   │   └── Extraordinary Donations
+        │   └── Visits
+        │       └── Guided Visits
+        ├── Collection
+        ├── Newsletter
+        ├── Official Apps
+        ├── Social Networks
+        └── The Bicentenary
+            ├── Activities
+            │   └── Community
+            ├── Actualidad
+            ├── Congratulations
+            ├── Exhibitions
+            ├── Memoria audiovisual
+            │   └── Tierra y cielo
+            ├── Micromecenazgo
+            └── Voces del Prado
+
 
 ```
