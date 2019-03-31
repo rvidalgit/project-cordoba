@@ -19,7 +19,7 @@ Data: Ano-Mês-Dia Hora-Minuto-Segundo
 
 ```
 └── www.museodelprado.es
-    └── Home
+   └── Home
     ├── Become a Friend
     │   ├── About us
     │   │   └── Mission & Vision
@@ -32,6 +32,12 @@ Data: Ano-Mês-Dia Hora-Minuto-Segundo
     │   └── Visits
     │       └── Guided Visits
     ├── Collection
+    │   ├── Featured Artists
+    │   │   ├── Multimidea
+    │   │   └── Obras
+    │   │       ├── Other works by Angelico, Fra
+    │   │       └── See Authors File
+    │   │           └── Autores Coetáneos
     │   └── The Annunciation
     │       └── Tag 1425
     ├── Newsletter
@@ -47,6 +53,4 @@ Data: Ano-Mês-Dia Hora-Minuto-Segundo
         │   └── Tierra y cielo
         ├── Micromecenazgo
         └── Voces del Prado
-
-
 ```
