@@ -119,14 +119,35 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                 │       ├── The Café
                 │       └── Tickets
                 └── What's on
+                        ├── Activities
+                        │   ├── Day planner
+                        │   ├── Free apps
+                        │   │   ├── Digital Family Game
+                        │   │   ├── Discover the Rijksmuseum through the app
+                        │   │   └── Multimedia tours
+                        │   ├── Guided tours
+                        │   │   └── Guided Tour All the Rembrandts
+                        │   ├── Startdrawing
+                        │   └── Symposiums
+                        │       └── Symposium PACCIN EuroPrepCon 2019
+                        │           └── Register here
                         ├── Exhibitions
                         │   ├── Expected
                         │   │   └── Long Live Rembrandt
                         │   │       └── About Long Live Rembrandt
-                        │   └── Now on view
+                        │   ├── Now on view
+                        │   └── Past
+                        │       ├── Document Nederland
+                        │       └── Eye-opener. Art Dealership M.L. de Boer
+                        ├── News
+                        │   ├── Latest News
+                        │   │   ├── Restoration of Night Watch for Public to Watch
+                        │   │   └── The Rijksmuseum celebrates
+                        │   └── Night watch restoration
                         └── The Year of Rembrandt
                         ├── All the Rembrandts
                         │   └── All the Rembrandts audio tour
                         └── Treasures from Storage
+
 
 ```
