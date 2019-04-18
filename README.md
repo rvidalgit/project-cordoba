@@ -101,6 +101,19 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
 ```
 └── www.rijksmuseum.nl
         └── Home
+                ├── Families, education or groups
+                │   ├── Education
+                │   │   └── Schools
+                │   ├── Families & children
+                │   │   └── Families and children
+                │   │       ├── Digital Family Game
+                │   │       ├── Family Day
+                │   │       └── Family guided tour Highlights
+                │   │           └── Family Guide 17th Century
+                │   └── Groups & guided tours
+                │       ├── Group tours
+                │       └── Group visits
+                │           └── Tickets
                 ├── Plan your visit
                 │   └── Visitor information
                 │       ├── About the Rijksmuseum
@@ -148,6 +161,4 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                         ├── All the Rembrandts
                         │   └── All the Rembrandts audio tour
                         └── Treasures from Storage
-
-
 ```
