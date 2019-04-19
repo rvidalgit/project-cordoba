@@ -110,10 +110,31 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                 │   │       ├── Family Day
                 │   │       └── Family guided tour Highlights
                 │   │           └── Family Guide 17th Century
-                │   └── Groups & guided tours
-                │       ├── Group tours
-                │       └── Group visits
-                │           └── Tickets
+                │   ├── Groups & guided tours
+                │   │   ├── Group tours
+                │   │   └── Group visits
+                │   │       └── Tickets
+                │   └── Tourism
+                │       ├── Access and facilities
+                │       ├── Hotels & resellers
+                │       └── Tourism industry
+                │           ├── Book your tickets now
+                │           └── Isaac and Rebecca, Known as ‘The Jewish Bride’
+                │               └── Collections with this work
+                │                   └── Masterpieces
+                ├── Join Us
+                │   ├── Benefactors
+                │   ├── Corporate support
+                │   ├── Friends
+                │   │   ├── Become a Friend
+                │   │   │   └── Rijks Friend
+                │   │   │       └── Become a Friend
+                │   │   └── International Circle
+                │   └── Funds
+                ├── Online shop
+                │   ├── Living
+                │   └── Prints
+                │       └── IXXI
                 ├── Plan your visit
                 │   └── Visitor information
                 │       ├── About the Rijksmuseum
@@ -131,6 +152,9 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                 │       ├── RIJKS Restaurant
                 │       ├── The Café
                 │       └── Tickets
+                ├── Rijks Studio
+                │   └── Birds
+                ├── Search in Rijksstudio
                 └── What's on
                         ├── Activities
                         │   ├── Day planner
