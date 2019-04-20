@@ -124,13 +124,24 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                 │                   └── Masterpieces
                 ├── Join Us
                 │   ├── Benefactors
+                │   │   ├── Donate
+                │   │   ├── Make a difference
+                │   │   └── Our benefactors
                 │   ├── Corporate support
+                │   │   ├── Our Sponsors
+                │   │   │   └── Philips
+                │   │   ├── Rijksclub
+                │   │   └── Sponsorship
                 │   ├── Friends
                 │   │   ├── Become a Friend
                 │   │   │   └── Rijks Friend
                 │   │   │       └── Become a Friend
                 │   │   └── International Circle
                 │   └── Funds
+                │       ├── All funds
+                │       ├── Funds & Foundations
+                │       └── Our projects
+                │           └── Music in the Rijksmuseum
                 ├── Online shop
                 │   ├── Living
                 │   └── Prints
