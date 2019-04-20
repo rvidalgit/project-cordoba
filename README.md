@@ -146,6 +146,25 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                 │   ├── Living
                 │   └── Prints
                 │       └── IXXI
+                ├── Organisation
+                │   ├── Contact, FAQ & terms
+                │   │   ├── Contact
+                │   │   ├── Credits
+                │   │   ├── FAQ
+                │   │   │   └── Copyright
+                │   │   ├── Newsletter
+                │   │   └── Terms
+                │   ├── Vacancies
+                │   │   ├── Internship in Photo Conservation
+                │   │   └── Job applications
+                │   ├── What we do
+                │   │   ├── Annual reports
+                │   │   ├── History
+                │   │   ├── Loans
+                │   │   └── Vision and mission
+                │   └── Who we are
+                │       ├── Boards
+                │       └── Organisation Chart
                 ├── Plan your visit
                 │   └── Visitor information
                 │       ├── About the Rijksmuseum
@@ -163,36 +182,42 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                 │       ├── RIJKS Restaurant
                 │       ├── The Café
                 │       └── Tickets
+                ├── Press
+                │   ├── Presskit
+                │   ├── Press mailing list
+                │   ├── Press releases
+                │   │   └── Rijksmuseum Announces
+                │   └── Press visits and contact
                 ├── Rijks Studio
                 │   └── Birds
                 ├── Search in Rijksstudio
                 └── What's on
-                        ├── Activities
-                        │   ├── Day planner
-                        │   ├── Free apps
-                        │   │   ├── Digital Family Game
-                        │   │   ├── Discover the Rijksmuseum through the app
-                        │   │   └── Multimedia tours
-                        │   ├── Guided tours
-                        │   │   └── Guided Tour All the Rembrandts
-                        │   ├── Startdrawing
-                        │   └── Symposiums
-                        │       └── Symposium PACCIN EuroPrepCon 2019
-                        │           └── Register here
-                        ├── Exhibitions
-                        │   ├── Expected
-                        │   │   └── Long Live Rembrandt
-                        │   │       └── About Long Live Rembrandt
-                        │   ├── Now on view
-                        │   └── Past
-                        │       ├── Document Nederland
-                        │       └── Eye-opener. Art Dealership M.L. de Boer
-                        ├── News
-                        │   ├── Latest News
-                        │   │   ├── Restoration of Night Watch for Public to Watch
-                        │   │   └── The Rijksmuseum celebrates
-                        │   └── Night watch restoration
-                        └── The Year of Rembrandt
+                ├── Activities
+                │   ├── Day planner
+                │   ├── Free apps
+                │   │   ├── Digital Family Game
+                │   │   ├── Discover the Rijksmuseum through the app
+                │   │   └── Multimedia tours
+                │   ├── Guided tours
+                │   │   └── Guided Tour All the Rembrandts
+                │   ├── Startdrawing
+                │   └── Symposiums
+                │       └── Symposium PACCIN EuroPrepCon 2019
+                │           └── Register here
+                ├── Exhibitions
+                │   ├── Expected
+                │   │   └── Long Live Rembrandt
+                │   │       └── About Long Live Rembrandt
+                │   ├── Now on view
+                │   └── Past
+                │       ├── Document Nederland
+                │       └── Eye-opener. Art Dealership M.L. de Boer
+                ├── News
+                │   ├── Latest News
+                │   │   ├── Restoration of Night Watch for Public to Watch
+                │   │   └── The Rijksmuseum celebrates
+                │   └── Night watch restoration
+                └── The Year of Rembrandt
                         ├── All the Rembrandts
                         │   └── All the Rembrandts audio tour
                         └── Treasures from Storage
