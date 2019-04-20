@@ -188,6 +188,11 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                 │   ├── Press releases
                 │   │   └── Rijksmuseum Announces
                 │   └── Press visits and contact
+                ├── Research
+                │   ├── Library and Print Room
+                │   ├── Publications
+                │   ├── Research and conservation
+                │   └── Restoration of Night Watch
                 ├── Rijks Studio
                 │   └── Birds
                 ├── Search in Rijksstudio
