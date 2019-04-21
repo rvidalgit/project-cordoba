@@ -4,6 +4,7 @@
 
 1. [https://www.museodelprado.es/en](https://www.museodelprado.es/en)
 2. [https://www.rijksmuseum.nl/en](https://www.rijksmuseum.nl/en)
+3. [https://www.britishmuseum.org/](https://www.britishmuseum.org/)
 
 ## Nomenclatura dos arquivos
 
@@ -283,4 +284,11 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                         ├── All the Rembrandts
                         │   └── All the Rembrandts audio tour
                         └── Treasures from Storage
+```
+
+### Estrutura de Pastas - The British Museum
+
+```
+└── www.britishmuseum.org
+        └── Home
 ```
