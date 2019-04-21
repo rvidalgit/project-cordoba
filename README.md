@@ -42,6 +42,13 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                 │   │   └── Tag 1425
                 │   └── Themes
                 │       └── Tags
+                ├── Contact
+                ├── Cookie list
+                ├── Digital semantic model
+                │   ├── Semantic Standards and Linked Data
+                │   ├── The experience of navigating
+                │   ├── The Museo del Prado’s Knowledge Graph
+                │   └── The Museo del Prado’s Ontological Model
                 ├── Learn
                 │   ├── Escuela del Prado
                 │   │   ├── Activities
@@ -67,10 +74,12 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                 │   │   └── Students and Teachers
                 │   └── RESEARCH
                 │       └── Modification and Report
+                ├── Legal information
                 ├── Museum
                 ├── My Prado
                 ├── Newsletter
                 ├── Official Apps
+                ├── Privacy policy
                 ├── Shop
                 ├── Social Networks
                 ├── The Bicentenary
@@ -87,13 +96,13 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                 │   ├── Buy Your Ticket
                 │   └── Recommended Tours
                 └── Whats-on
-                ├── Audio
-                │   └── Audio Guide
-                ├── Interactives
-                │   └── Story
-                ├── News
-                │   └── News
-                └── Video
+                        ├── Audio
+                        │   └── Audio Guide
+                        ├── Interactives
+                        │   └── Story
+                        ├── News
+                        │   └── News
+                        └── video
 ```
 
 ### Estrutura de Pastas - Rijks Museum
@@ -101,6 +110,7 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
 ```
 └── www.rijksmuseum.nl
         └── Home
+                ├── Cookie Policy
                 ├── Families, education or groups
                 │   ├── Education
                 │   │   └── Schools
@@ -188,41 +198,88 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
                 │   ├── Press releases
                 │   │   └── Rijksmuseum Announces
                 │   └── Press visits and contact
+                ├── Privacy Policy
                 ├── Research
                 │   ├── Library and Print Room
+                │   │   ├── Admission and information
+                │   │   ├── Collections and services
+                │   │   ├── Contact form
+                │   │   └── Search the catalogue
+                │   │       ├── Advanced Search
+                │   │       │   └── Search returned
+                │   │       ├── Authority search
+                │   │       │   └── Authority search results
+                │   │       ├── Collection
+                │   │       │   ├── Collection profile
+                │   │       │   └── Special Collections
+                │   │       ├── Databases
+                │   │       ├── News
+                │   │       │   ├── Acquisition highlights
+                │   │       │   ├── Archive
+                │   │       │   ├── Research Services Blog
+                │   │       │   └── Show all acquisitions
+                │   │       │       └── April 2019
+                │   │       ├── Services
+                │   │       │   ├── Contact
+                │   │       │   ├── Data Services
+                │   │       │   ├── Getting a library pass
+                │   │       │   ├── Make a purchase suggestion
+                │   │       │   ├── Requests and viewing
+                │   │       │   ├── Scan on request
+                │   │       │   └── Using the catalogue
+                │   │       └── Tag cloud
                 │   ├── Publications
+                │   │   ├── Academic newsletter
+                │   │   ├── Collection Catalogues
+                │   │   │   └── Early Netherlandish Paintings
+                │   │   ├── Photoservice
+                │   │   ├── Rijksmuseum Studies in Photography
+                │   │   ├── Studies in History
+                │   │   ├── Studies in Photography
+                │   │   └── The Rijksmuseum Bulletin
                 │   ├── Research and conservation
+                │   │   ├── CCNL
+                │   │   ├── Fellowship Programme
+                │   │   ├── Information and Projects
+                │   │   ├── Master’s programme
+                │   │   ├── NICAS
+                │   │   ├── Provenance research
+                │   │   ├── Summer School
+                │   │   ├── Symposiums
+                │   │   │   └── Symposium PACCIN EuroPrepCon 2019
+                │   │   └── Terminology
                 │   └── Restoration of Night Watch
                 ├── Rijks Studio
                 │   └── Birds
                 ├── Search in Rijksstudio
+                ├── Terms and conditions
                 └── What's on
-                ├── Activities
-                │   ├── Day planner
-                │   ├── Free apps
-                │   │   ├── Digital Family Game
-                │   │   ├── Discover the Rijksmuseum through the app
-                │   │   └── Multimedia tours
-                │   ├── Guided tours
-                │   │   └── Guided Tour All the Rembrandts
-                │   ├── Startdrawing
-                │   └── Symposiums
-                │       └── Symposium PACCIN EuroPrepCon 2019
-                │           └── Register here
-                ├── Exhibitions
-                │   ├── Expected
-                │   │   └── Long Live Rembrandt
-                │   │       └── About Long Live Rembrandt
-                │   ├── Now on view
-                │   └── Past
-                │       ├── Document Nederland
-                │       └── Eye-opener. Art Dealership M.L. de Boer
-                ├── News
-                │   ├── Latest News
-                │   │   ├── Restoration of Night Watch for Public to Watch
-                │   │   └── The Rijksmuseum celebrates
-                │   └── Night watch restoration
-                └── The Year of Rembrandt
+                        ├── Activities
+                        │   ├── Day planner
+                        │   ├── Free apps
+                        │   │   ├── Digital Family Game
+                        │   │   ├── Discover the Rijksmuseum through the app
+                        │   │   └── Multimedia tours
+                        │   ├── Guided tours
+                        │   │   └── Guided Tour All the Rembrandts
+                        │   ├── Startdrawing
+                        │   └── Symposiums
+                        │       └── Symposium PACCIN EuroPrepCon 2019
+                        │           └── Register here
+                        ├── Exhibitions
+                        │   ├── Expected
+                        │   │   └── Long Live Rembrandt
+                        │   │       └── About Long Live Rembrandt
+                        │   ├── Now on view
+                        │   └── Past
+                        │       ├── Document Nederland
+                        │       └── Eye-opener. Art Dealership M.L. de Boer
+                        ├── News
+                        │   ├── Latest News
+                        │   │   ├── Restoration of Night Watch for Public to Watch
+                        │   │   └── The Rijksmuseum celebrates
+                        │   └── Night watch restoration
+                        └── The Year of Rembrandt
                         ├── All the Rembrandts
                         │   └── All the Rembrandts audio tour
                         └── Treasures from Storage
