@@ -291,4 +291,20 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
 ```
 └── www.sciencemuseum.org.uk
         └── Home
+                ├── Objects and Stories
+                │   ├── Find Out More
+                │   ├── Our Wirelless World
+                │   │   └── Read The Story
+                │   └── Search Our Collection
+                ├── See and Do
+                │   ├── Filter Results
+                │   │   └── The Clockmakers' Museum
+                │   └── Highlights
+                │       └── The Sun: Living With Our Star
+                └── Visit
+                ├── Accessibility
+                ├── Birthday Parties
+                │   └── Book Now
+                ├── Food and Drink
+                └── Group Visits
 ```
