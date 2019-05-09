@@ -291,11 +291,22 @@ Ex.: Captura de tela de *2019-03-29 20-50-14*.png
 ```
 └── www.sciencemuseum.org.uk
         └── Home
+                ├── Learning
+                │   ├── At the museum
+                │   │   ├── Plan An Educational Visit
+                │   │   └── See And Do For Schools
+                │   │       └── Wonderlab
+                │   └── Education Newsletter
                 ├── Objects and Stories
                 │   ├── Find Out More
                 │   ├── Our Wirelless World
                 │   │   └── Read The Story
                 │   └── Search Our Collection
+                │       ├── Search
+                │       │   └── Filters
+                │       │       └── Kyocera 'Visualphone VP210'
+                │       └── Themes
+                │           └── Pharmacology
                 ├── See and Do
                 │   ├── Filter Results
                 │   │   └── The Clockmakers' Museum
